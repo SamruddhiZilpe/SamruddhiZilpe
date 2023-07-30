@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samruddhi Zilpe</h1>
-<h3 align="center">An ETC Sophomore ,like exploring new fields.</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samruddhizilpe&label=Profile%20views&color=0e75b6&style=flat" alt="samruddhizilpe" /> </p>
 
