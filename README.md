@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Samruddhi Zilpe</h1>
-<h3 align="center">A passionate frontend developer.</h3>
+<h3 align="center">A passionate Software Developer.</h3>
 <!-- <img src="[C:\Users\samru\OneDrive\Desktop\coding.png alt=image](https://img.freepik.com/premium-vector/woman-programmer-software-web-development-computer-girl-work-script-coding-programming_352905-203.jpg)" width="250" height="250" align="right"> -->
 
 
